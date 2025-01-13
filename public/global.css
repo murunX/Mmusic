@@ -28,6 +28,7 @@ body {
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
+  margin-top: 108px;
 }
 .songs {
   display: flex;
@@ -502,6 +503,7 @@ button:hover .arrow {
   background-size: cover;
   background-position: center;
   border-radius: 15px;
+  min-height: 210px;
 }
 .music-player {
   position: fixed;
